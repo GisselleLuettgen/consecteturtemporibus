@@ -1,0 +1,44 @@
+{
+  "name": "consecteturtemporibus",
+  "version": "1.0.0",
+  "description": "Typescript wrapper for SHA-512, including $6$ crypt format.",
+  "files": [
+    "/dist"
+  ],
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "build": "tsc",
+  "keywords": [
+    "consequatur",
+    "optio",
+    "nam",
+    "typescript"
+  ],
+  "author": "MarcellaConnelly",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GisselleLuettgen/consecteturtemporibus.git"
+  },
+  "license": "Apache-2.0",
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/GisselleLuettgen/consecteturtemporibus.git/issues"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.2.21",
+    "@types/mocha": "^9.0.0",
+    "@types/node": "^16.9.2",
+    "chai": "^4.3.4",
+    "codecov": "^3.8.3",
+    "mocha": "^9.1.1",
+    "nyc": "^15.1.0",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.3",
+    "typedoc": "^0.22.3"
+  }
+}
